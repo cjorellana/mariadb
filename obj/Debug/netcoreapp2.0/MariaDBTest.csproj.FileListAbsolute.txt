@@ -1,0 +1,13 @@
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/app.db
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/MariaDBTest.deps.json
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/MariaDBTest.runtimeconfig.json
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/MariaDBTest.runtimeconfig.dev.json
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/MariaDBTest.dll
+/Users/cjorellana/Code/MariaDBTest/bin/Debug/netcoreapp2.0/MariaDBTest.pdb
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.csprojResolveAssemblyReference.cache
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.csproj.CoreCompileInputs.cache
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.AssemblyInfoInputs.cache
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.AssemblyInfo.cs
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.dll
+/Users/cjorellana/Code/MariaDBTest/obj/Debug/netcoreapp2.0/MariaDBTest.pdb
